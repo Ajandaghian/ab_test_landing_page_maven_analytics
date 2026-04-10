@@ -39,7 +39,7 @@ The Website Manager noticed that the homepage bounce rate was unusually high (60
 
 
 ## Data
-the dataset provided by Maven Analytics is a simulated E-Commerce database based on real-world data from an online toy retailer. It includes detailed information on website sessions, pageviews, orders, and refunds, allowing for comprehensive analysis of user behavior and marketing performance.
+The dataset provided by Maven Analytics is a simulated E-Commerce database based on real-world data from an online toy retailer. It includes detailed information on website sessions, pageviews, orders, and refunds, allowing for comprehensive analysis of user behavior and marketing performance.
 
 Dataset: [Toy Store E-Commerce Database](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database)
 
